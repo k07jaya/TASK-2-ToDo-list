@@ -1,0 +1,35 @@
+body {
+    background-color: rgb(123, 238, 129);
+
+    font-family: 'Poppins', sans-serif;
+}
+
+.container {
+    width: 360px;
+    padding: 33px;
+    text-align: center;
+    background-color: rgb(255, 244, 240);
+    margin-left: 33%;
+    margin-top: 5px;
+}
+
+input {
+    width: 270px;
+    padding: 8px;
+    border: 2px solid rgb(27, 163, 9);
+    outline: none;
+    font-size: 19px;
+
+}
+
+button {
+    width: 60px;
+    height: 41px;
+    background-color: yellowgreen;
+    color: aliceblue;
+    border: none;
+    outline: none;
+    border-radius: 2px;
+    font-size: 19px;
+
+}
